@@ -1,0 +1,6 @@
+In the last decade, there was a development of technologies that allowed the possibility of storing and processing large amounts of data. Due to this, there was a considerable increase in the use of video cameras. Areas such as surveillance, traffic control, and entertainment, presented a greater demand for the development of techniques for analysis and automatic classification of videos. Within those areas of application, human activities recognition is considered one of the major problems and is discussed in the scientific environment due to related challenges, such as blurred images, point view changed confusion with background and low resolution. Recently, the Convolutional Neural Networks (CNN) have made considerable advances in several areas of research, improving state of the art in many cases, including images and videos classification problems. Thus, this work aims to develop a 3D CNN for the human actions recognition, as well as a study of the influence of the resolutions of entries in the network. 
+After choosing the model are compared with other works in the area. The results obtained by the model surpassed the state-of-the-art in the bases evaluated and are discussed in this document.
+
+
+
+https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/
